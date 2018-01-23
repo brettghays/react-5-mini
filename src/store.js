@@ -1,5 +1,6 @@
 import { createStore } from "redux";
 
+//import reducer
 import counter from "./ducks/counter";
 
 export default createStore( 
